@@ -1,4 +1,6 @@
 ![hello.svg](./hello.svg)
+
+![iam_and_from.svg](./iam_and_from.svg)
 <!--
 **K05A4B/k05a4b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
